@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta aplicación en Java permite gestionar equipos de red de manera eficiente. Desarrollada como parte de un proyecto escolar, la aplicación ofrece funcionalidades para ingresar, actualizar, eliminar y visualizar equipos de red, así como generar estadísticas sobre su uso.
+Esta aplicación en Java permite gestionar equipos de red de manera eficiente. Desarrollada como parte de un proyecto de la Universidad, la aplicación ofrece funcionalidades para ingresar, actualizar, eliminar y visualizar equipos de red, así como generar estadísticas sobre su uso.
 
 ## Características
 
